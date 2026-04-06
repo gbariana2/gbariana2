@@ -6,6 +6,30 @@ I'm a product thinker interested in data, AI, and building things that solve rea
 
 ## Projects
 
+### Harmony AI
+
+Winner of BoothHacks (Chicago Booth Hackathon) — Best Data-Driven Product.
+
+A voice-first AI assistant built for older adults and their families. The core idea: most tech asks too much from the people who need help the most. Harmony works the other way — it fits into daily life without requiring anyone to learn a new interface.
+
+For the elder, it handles daily check-ins, medication reminders, and flags when something seems off. For the family, it sends quiet updates so they stay informed without having to constantly check in.
+
+[View Live App](https://new-test-app.lovable.app/) · [View on Devpost](https://devpost.com/software/team-khamg)
+
+*Note: This project was built collaboratively and is not hosted on this GitHub account.*
+
+---
+
+### Campus Coffee Roulette
+
+A quiet way for Chicago grad students to connect across programs. One match per week. Thirty minutes. No pressure.
+
+This was also an exercise in design process — 25 landing page iterations for the same concept, exploring radically different aesthetics before converging on a final version. Built in pure HTML and CSS.
+
+[View Gallery](https://dbs-assignment-1-ten.vercel.app/) · [View on GitHub](https://github.com/gbariana2/dbs_assignment_1)
+
+---
+
 ### RecessionPop
 
 An exploratory data project looking at whether music popularity shifts alongside economic trends. The goal isn't to claim correlation — it's to investigate whether there are patterns worth examining, and to build a foundation for future modelling work.
@@ -15,18 +39,6 @@ An exploratory data project looking at whether music popularity shifts alongside
 - Designed as a starting point for ML or statistical modelling
 
 [View Project](https://recessionpop.lovable.app)
-
----
-
-### Harmony AI
-
-A voice-first AI assistant built for older adults and their families. The core idea: most tech asks too much from the people who need help the most. Harmony works the other way — it fits into daily life without requiring anyone to learn a new interface.
-
-For the elder, it handles daily check-ins, medication reminders, and flags when something seems off. For the family, it sends quiet updates so they stay informed without having to constantly check in.
-
-[View Live App](https://new-test-app.lovable.app/)
-
-*Note: This project was built collaboratively and is not hosted on this GitHub account.*
 
 ---
 

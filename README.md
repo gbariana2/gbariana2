@@ -20,6 +20,14 @@ For the elder, it handles daily check-ins, medication reminders, and flags when 
 
 ---
 
+### FitTrack
+
+A personal workout tracker for logging sessions, following training plans, visualising progress, and tracking personal bests. Built with Next.js and TypeScript.
+
+[View Live App](https://workout-tracker-taupe-rho.vercel.app/) · [View on GitHub](https://github.com/gbariana2/workout-tracker)
+
+---
+
 ### Campus Coffee Roulette
 
 A quiet way for Chicago grad students to connect across programs. One match per week. Thirty minutes. No pressure.
@@ -30,7 +38,7 @@ This was also an exercise in design process — 25 landing page iterations for t
 
 ---
 
-### RecessionPop
+### RecessionPOP
 
 An exploratory data project looking at whether music popularity shifts alongside economic trends. The goal isn't to claim correlation — it's to investigate whether there are patterns worth examining, and to build a foundation for future modelling work.
 
@@ -38,7 +46,7 @@ An exploratory data project looking at whether music popularity shifts alongside
 - Focused on surfacing patterns, not conclusions
 - Designed as a starting point for ML or statistical modelling
 
-[View Project](https://recessionpop.lovable.app)
+[View Project](https://recessionpop.lovable.app) · [View on GitHub](https://github.com/gbariana2/RecessionPOP)
 
 ---
 

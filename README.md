@@ -50,6 +50,16 @@ An exploratory data project looking at whether music popularity shifts alongside
 
 ---
 
+### CryptoTracker
+
+A real-time cryptocurrency dashboard that tracks 10 coins via the Binance API with live price updates, interactive candlestick charts, and volatility alerts. Users sign in, favorite coins for a personalized view, and explore historical price data across multiple time periods.
+
+The system uses a distributed architecture: a background worker on Railway streams prices into Supabase, which pushes updates to the Next.js frontend via Realtime subscriptions. Built with Next.js, TypeScript, Tailwind CSS, Supabase (Auth + Realtime + PostgreSQL), and TradingView lightweight-charts.
+
+[View Live App](https://web-kappa-eight-11.vercel.app) · [View on GitHub](https://github.com/gbariana2/crypto_tracker)
+
+---
+
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/gbariana)
